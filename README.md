@@ -1,4 +1,9 @@
+
+![MasterHead](https://th.bing.com/th/id/R7aac0a65c2f22ba34702ab7413afd7aa?rik=3QLaVVVlQ8ByPQ&riu=http%3A%2F%2Fperfonec.com%2Fwp-content%2Fuploads%2F2019%2F03%2Fhome-gif.gif&ehk=t5qZ3Kod64AaXvjumGsEYHoPvBh7swqcZROIBTCNiow%3D&risl=&pid=ImgRaw)
+
+
 <h1 align="center">Hi 👋, I'm Kausar</h1>
+
 <h3 align="center">A passionate CSE Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kausar122&label=Profile%20views&color=0e75b6&style=flat" alt="kausar122" /> </p>
